@@ -1,0 +1,43 @@
+# PI – Planalto
+
+Repositório destinado à documentação do Projeto Integrador (PI) – Planalto, reunindo as informações, análises e modelagens necessárias para o desenvolvimento do site.
+
+## Sobre o Projeto
+
+O PI – Planalto tem como objetivo documentar o processo de planejamento e desenvolvimento de um site, desde o levantamento inicial das informações até a modelagem estrutural do sistema.
+
+Este repositório centraliza os documentos do projeto, facilitando a organização, o acompanhamento e a consulta das etapas de desenvolvimento.
+
+## Documentação do Projeto
+
+A documentação está dividida em cinco etapas principais:
+
+Briefing
+Documento com a apresentação inicial do projeto, incluindo seus objetivos, público-alvo, necessidades identificadas e expectativas em relação ao site.
+
+Levantamento
+Etapa destinada à coleta e à organização das informações necessárias para o desenvolvimento do site, identificando necessidades, problemas e oportunidades.
+
+Requisitos
+Descrição dos requisitos funcionais e não funcionais do sistema, definindo as funcionalidades que o site deverá oferecer e as condições de qualidade e funcionamento esperadas.
+
+Casos de Uso
+Representação das interações entre os usuários e o sistema, identificando os atores envolvidos e as principais funcionalidades disponíveis no site.
+
+Diagrama de Classes
+Representação da estrutura do sistema por meio de classes, atributos, métodos e relacionamentos, contribuindo para a compreensão e a modelagem da solução.
+
+## Objetivo do Repositório
+
+Centralizar a documentação do projeto.
+Organizar as etapas de planejamento e modelagem do site.
+Facilitar o acompanhamento da evolução do projeto.
+Manter os documentos acessíveis para consulta e colaboração entre os integrantes da equipe.
+🛠️ Tecnologias e Ferramentas
+As ferramentas utilizadas serão definidas conforme as necessidades de documentação, modelagem e desenvolvimento do projeto.
+
+## Equipe
+
+Projeto: PI – Planalto
+Tipo: Projeto Integrador
+Finalidade: Documentação do site
